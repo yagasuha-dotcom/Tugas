@@ -1,0 +1,12 @@
+{
+  "name": "misi-harmoni",
+  "version": "1.0.0",
+  "description": "Misi Harmoni - game petualangan pixel art bermuatan materi sosiologi (SMA Kelas X)",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve .",
+    "validate": "node tools/validate.mjs",
+    "materi": "node tools/export-materi.mjs"
+  },
+  "license": "MIT"
+}
